@@ -1,0 +1,99 @@
+{
+		"signos": [{
+			"nombre": "Aries",
+			"elemento": "Fuego",
+			"planetas":["Marte", "Plutón"],
+			"gema": "Diamente",
+			"FechaIncio": "21/3",
+			"FechaFin": "20/4"
+		},
+		{
+			"nombre": "Tauro",
+			"elemento": "Tierra",
+			"planetas":["Venus", "Tierra"],
+			"gema": "Esmeralda",
+			"fechaIncio": "21/4",
+			"fechaFin" : "20/5"
+		},
+		{
+			"nombre": "Géminis",
+			"elemento": "Aire",
+			"planetas":["Mercurio"],
+			"gema": "Perla",
+			"fechaIncio": "21/5",
+			"fechaFin" : "21/6"
+		},
+		{
+			"nombre": "Cáncer",
+			"elemento": "Agua",
+			"planetas":["Luna"],
+			"gema": "Rubí",
+			"fechaIncio": "22/6",
+			"fechaFin" : "22/7"
+		},
+		{
+			"nombre": "Leo",
+			"elemento": "Fuego",
+			"planetas":["Sol"],
+			"gema": "Feldespato",
+			"fechaIncio": "23/7",
+			"fechaFin" : "22/8"
+		},
+		{
+			"nombre": "Virgo",
+			"elemento": "Tierra",
+			"planetas":["Mercurio"],
+			"gema": "Zafiro",
+			"fechaIncio": "23/8",
+			"fechaFin" : "22/9"
+		},
+		{
+			"nombre": "Libra",
+			"elemento": "Aire",
+			"planetas":["Venus"],
+			"gema": "Ópalo",
+			"fechaIncio": "23/9",
+			"fechaFin" : "22/10"
+		},
+		{
+			"nombre": "Escorpio",
+			"elemento": "Agua",
+			"planetas":["Putón, Marte"],
+			"gema": "Topacio",
+			"fechaIncio": "23/10",
+			"fechaFin" : "22/11"
+		},
+		{
+			"nombre": "Sagitario",
+			"elemento": "Fuego",
+			"planetas":["Júpiter"],
+			"gema": "Turquesa",
+			"fechaIncio": "23/11",
+			"fechaFin" : "21/12"
+		},
+		{
+			"nombre": "Capricornio",
+			"elemento": "Tierra",
+			"planetas":["Saturno"],
+			"gema": "Granate",
+			"fechaIncio": "22/12",
+			"fechaFin" : "20/1"
+		},
+		{
+			"nombre": "Acuario",
+			"elemento": "Aire",
+			"planetas":["Urano", "Saturno"],
+			"gema": "Amatista",
+			"fechaIncio": "21/1",
+			"fechaFin" : "18/2"
+		},
+		{
+			"nombre": "Piscis",
+			"elemento": "Agua",
+			"planetas":["Neptuno", "Júpiter"],
+			"gema": "Aguamarina",
+			"fechaIncio": "19/2",
+			"fechaFin" : "20/3"
+		}	
+	]
+}
